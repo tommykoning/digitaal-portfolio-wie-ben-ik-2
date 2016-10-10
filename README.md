@@ -1,8 +1,7 @@
 # digitaal-portfolio-wie-ben-ik-2
-Digitaal Portfolio (Wie ben ik - deel 2) - jouw website voor de ouderavond
+Digitaal Portfolio (Wie ben ik - deel 2).
 
-In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt van jouw digitaal portfolio. Deze opdracht is een vervolg hierop en heeft als doel om het portfolio verder uit te breiden en online beschikbaar te stellen.
-Je hebt daarom je bestanden uit de vorige opdracht nodig. Maar gelukkig heb je die gepusht naar jouw repository op GitHub en kun je ze dus weer ophalen.
+In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt met het maken van jouw digitaal portfolio. Deze opdracht heeft als doel om het portfolio verder uit te breiden en online beschikbaar te stellen. Je hebt daarom je bestanden uit de vorige opdracht nodig. Maar gelukkig heb je die gepusht naar jouw repository op GitHub en kun je ze dus weer ophalen.
 
 Deze opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
