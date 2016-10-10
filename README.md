@@ -1,35 +1,33 @@
 # digitaal-portfolio-wie-ben-ik-2
 Digitaal Portfolio (Wie ben ik - deel 2).
 
-In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt met het maken van jouw digitaal portfolio. Deze opdracht heeft als doel om het portfolio verder uit te breiden en online beschikbaar te stellen. Je hebt daarom je bestanden uit de vorige opdracht nodig. Maar gelukkig heb je die gepusht naar jouw repository op GitHub en kun je ze dus weer ophalen.
-
-Deze opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
+In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt met het maken van jouw digitaal portfolio. In de opdracht [layout](https://github.com/davinci-ao/layout) heb je geoefend met het maken van een layout voor zowel desktop- als mobiel gebruik. Deze opdracht heeft als doel om het portfolio te voorzien van zo'n layout en de inhoud verder uit te breiden en online beschikbaar te stellen. Je hebt daarom je bestanden uit de vorige opdrachten nodig. Maar gelukkig heb je die gepusht naar jouw repository op GitHub en kun je ze dus weer ophalen.
 
 ###Functionele eisen
 Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
-* Jouw portfolio bevat een menu (dit mag een openklap menu zijn of een statisch menu)
-* Jouw portfolio bevat een pagina over de opdrachten die je in je opleiding hebt gedaan
-* Jouw portfolio bevat een bijgewerkt CV
-* Jouw portfolio bevat een pagina over "wie ben ik", inclusief je hobbies (met foto's).
-* Jouw portfolio bevat een pagina over het beroep waarvoor je opgeleid wordt
-* Jouw portfolio bevat een pagina over een actuele ontwikkeling op je vakgebied
-* Je hebt, na het op internet zetten, alle links op alle pagina's getest (er zijn tools die dit automatisch voor je kunnen doen)
-* Jouw portfolio is op internet te bekijken. Je mag kiezen uit een gratis subdomein bij hostinger.nl, een gratis subdomein dat een van de docenten voor je regelt, of een ander (gratis of betaald) domein of subdomein.
+* Jouw portfolio bevat een menu (dit mag een openklap-menu zijn of een menu dat niet openklapt);
+* Jouw portfolio bevat een pagina "opleiding" over de opdrachten, vakken en projecten die je in je opleiding doet;
+* Jouw portfolio bevat een afdeling "over mij" met 
+ * een bijgewerkt CV;
+ * een foto van jezelf waar je herkenbaar op staat;
+ * een pagina over "wie ben ik" inclusief je hobbies (met foto's);
+* Jouw portfolio bevat een pagina over het beroep waarvoor je opgeleid wordt;
+* Jouw portfolio bevat een lijst met vijf of meer nieuwberichten over actuele ontwikkelingen binnen je vakgebied;
+* Jouw portfolio is goed te bekijken op een smartphone;
+* Jouw portfolio is op internet opvraagbaar;
+* Je hebt, na het op internet zetten, alle links op alle pagina's getest;
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
-Wie ben ik moet aan de volgende technische eisen voldoen:
-* Alle pagina's zijn gekoppeld aan dezelfde stylesheet of stylesheet;
+De opdracht moet aan de volgende technische eisen voldoen:
+* Je gebruikt semantische HTML5 `main`, `header`, `nav`, `aside`, `article`, `section`; beperk het gebruik van `div` zoveel mogelijk;
+* Alle pagina's zijn gekoppeld aan dezelfde stylesheet(s);
+* Je mag geen bootstrap, w3.css, foundation of een ander framework gebruiken (met andere woorden: al jouw CSS is door jouzelf geschreven);
 * Je hebt een nette mappenstructuur voor de verschillende soorten bestanden in je portfolio;
-* Je gebruikt een bestaand framework voor je icons (zoals Font Awesome of een Google Font);
 * Je hebt je portfolio gecontroleerd met de W3 HTML validator;
 * Jouw portfolio bevat javascript code die de DOM manipuleert;
+* Jouw portfolio is op internet te bekijken via [http://gebruikersnaam.github.io/](http://gebruikersnaam.github.io/). Je hebt dit - als het goed is - al aangezet bij de opdracht "[wie ben ik](https://github.com/davinci-ao/wie-ben-ik)".
 
 ###Bonus
-...
-
-###Bronnen
-Aanvullende informatie en bronnen kun je terug vinden in de wiki van deze opdracht.
-
-https://github.com/davinci-ao/wiebenik/wiki
+* Je gebruikt een Font Awesome of een Google Font voor je menu-icons;
