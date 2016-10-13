@@ -1,7 +1,7 @@
 # Wie ben ik (2)
 Digitaal Portfolio (Wie ben ik - deel 2).
 
-In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt met het maken van jouw digitaal portfolio. In de opdracht [layout](https://github.com/davinci-ao/layout) heb je geoefend met het maken van een layout voor zowel desktop- als mobiel gebruik. Deze opdracht heeft als doel om het portfolio te voorzien van zo'n layout en de inhoud verder uit te breiden en online beschikbaar te stellen. Je hebt daarom je bestanden uit de vorige opdrachten nodig. Maar gelukkig heb je die gepusht naar jouw repository op GitHub en kun je ze dus weer ophalen.
+In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt met het maken van jouw digitaal portfolio. In de opdracht [layout](https://github.com/davinci-ao/layout) heb je geoefend met het maken van een layout voor zowel desktop- als mobiel gebruik. Deze opdracht heeft als doel om het portfolio te voorzien van zo'n layout en de inhoud verder uit te breiden en online beschikbaar te stellen. Je hebt daarom je bestanden uit de vorige opdrachten nodig. 
 
 ###Functionele eisen
 Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
