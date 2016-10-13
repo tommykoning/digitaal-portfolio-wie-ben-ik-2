@@ -13,7 +13,7 @@ Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
  * een pagina over "wie ben ik" inclusief je hobbies (met foto's);
 * Jouw portfolio bevat een pagina over het beroep waarvoor je opgeleid wordt;
 * Jouw portfolio bevat een lijst met vijf of meer nieuwberichten over actuele ontwikkelingen binnen je vakgebied;
-* Jouw portfolio is goed te bekijken op een smartphone;
+* Jouw portfolio is goed te bekijken op een smartphone (*);
 * Jouw portfolio is op internet opvraagbaar;
 * Je hebt, na het op internet zetten, alle links op alle pagina's getest;
 
@@ -23,10 +23,10 @@ Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet 
 De opdracht moet aan de volgende technische eisen voldoen:
 * Je gebruikt semantische HTML5 `main`, `header`, `nav`, `aside`, `article`, `section`; beperk het gebruik van `div` zoveel mogelijk;
 * Alle pagina's zijn gekoppeld aan dezelfde stylesheet(s);
-* Je mag geen bootstrap, w3.css, foundation of een ander framework gebruiken (met andere woorden: al jouw CSS is door jouzelf geschreven);
+* Je mag geen bootstrap, w3.css, foundation of een ander framework gebruiken (met andere woorden: al jouw CSS is door jouzelf geschreven) (*);
 * Je hebt een nette mappenstructuur voor de verschillende soorten bestanden in je portfolio;
 * Je hebt je portfolio gecontroleerd met de W3 HTML validator;
-* Jouw portfolio bevat javascript code die de DOM manipuleert;
+* Jouw portfolio bevat javascript code die de DOM manipuleert (*);
 * Jouw portfolio is op internet te bekijken via [http://gebruikersnaam.github.io/](http://gebruikersnaam.github.io/). Je hebt dit - als het goed is - al aangezet bij de opdracht "[wie ben ik](https://github.com/davinci-ao/wie-ben-ik)".
 
 ###Bonus
